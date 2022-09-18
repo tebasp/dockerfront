@@ -1,0 +1,22 @@
+{
+  "name": "dockerfront",
+  "version": "1.0.0",
+  "description": "Testing docker deployed on render.com",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tebasp/dockerfront.git"
+  },
+  "author": "Esteban Palomeque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tebasp/dockerfront/issues"
+  },
+  "homepage": "https://github.com/tebasp/dockerfront#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
